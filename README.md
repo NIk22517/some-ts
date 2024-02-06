@@ -1,6 +1,6 @@
 # Some Class
 
-This TypeScript class provides utility methods for handling arrays.
+This TypeScript class provides utility methods for handling arrays, strings, numbers, booleans, and objects.
 
 ## Usage
 
