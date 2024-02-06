@@ -11,10 +11,10 @@ To run the TypeScript file directly and see the output in the terminal:
    ```bash
    npm install -g typescript ts-node
 
-Execute the TypeScript file using ts-node:
-   
-   
-           ts-node Some.ts
+2. Execute the TypeScript file using ts-node:
+    ```bash
+   ts-node Some.ts
+
    
 
 
