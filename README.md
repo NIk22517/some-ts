@@ -14,7 +14,7 @@ To run the TypeScript file directly and see the output in the terminal:
 Execute the TypeScript file using ts-node:
    
    
-    ts-node Some.ts
+           ts-node Some.ts
    
 
 
