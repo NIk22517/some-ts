@@ -15,9 +15,6 @@ To run the TypeScript file directly and see the output in the terminal:
     ```bash
    ts-node Some.ts
 
-   
-
-
 ## Usage
 
 ### Array Method
