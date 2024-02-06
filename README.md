@@ -2,6 +2,16 @@
 
 This TypeScript class provides utility methods for handling arrays, strings, numbers, booleans, and objects.
 
+## Running the Code
+
+To run the TypeScript file directly and see the output in the terminal:
+
+1. Make sure you have Node.js and ts-node installed globally on your machine. You can install them using npm:
+
+   ```bash
+   npm install -g typescript ts-node
+
+
 ## Usage
 
 ### Array Method
